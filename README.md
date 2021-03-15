@@ -1,0 +1,2 @@
+# YandexPracticumDA
+MY FUCKING PROJECTS !!!!
