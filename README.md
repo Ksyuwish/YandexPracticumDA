@@ -23,7 +23,7 @@
 [Принятие решений в бизнесе на основе данных](https://github.com/Ksyuwish/YandexPracticumDA/blob/main/projects/7\)data_driven_decision.ipynb)
 * На основе данных интернет-магазина были приоритезированы гипотезы, произведена оценка результатов A/B-тестирования различными методами
 
-[Исследование рынка общепита в Москве ](https://github.com/Ksyuwish/YandexPracticumDA/blob/main/projects/8)rest_market.ipynb)
+[Исследование рынка общепита в Москве ](https://github.com/Ksyuwish/YandexPracticumDA/blob/main/projects/8\)rest_market.ipynb)
 * Проведено исследование рынка общественного питания в Москве на основе открытых данных, подготовлена презентация для инвесторов
 
 [Анализ пользовательского поведения в мобильном приложении](https://github.com/Ksyuwish/YandexPracticumDA/blob/main/projects/9\)funnel_AAB_test.ipynb)
