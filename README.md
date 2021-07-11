@@ -1,4 +1,7 @@
 # YandexPracticumDA
+
+## Учебные проекты 
+
 [Исследование надёжности заёмщиков](https://github.com/Ksyuwish/YandexPracticumDA/blob/main/projects/1\)loaners_reliability.ipynb)
 * Была произведена оценка влияния семейного положения и количества детей клиента на факт погашения кредита в срок.
 
@@ -43,3 +46,17 @@
 
 [Анализ базы данных методом запросов SQL](https://github.com/Ksyuwish/YandexPracticumDA/blob/main/projects/14\)SQL_project.ipynb)
 * Изучена информация о книгах, издательствах, авторах и пользовательских обзоров книг.
+
+## Environment 
+
+Библиотеки Python:
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
+* Plotly
+* Scipy
+* Sklearn
+* SQLAlchemy
+* NLTK
+
